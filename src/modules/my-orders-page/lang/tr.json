@@ -1,0 +1,23 @@
+{
+  "title": "Siparişlerim",
+  "loadError": "Siparişler yüklenemedi. Lütfen tekrar deneyin.",
+  "loginRequired": "Giriş Gerekli",
+  "loginRequiredDescription": "Siparişlerinizi görmek için lütfen giriş yapın.",
+  "login": "Giriş Yap",
+  "createAccount": "Hesap Oluştur",
+  "loadingOrders": "Siparişler Yükleniyor",
+  "pleaseWait": "Lütfen bekleyin...",
+  "errorTitle": "Bir şeyler ters gitti",
+  "errorDescription": "Siparişlerinizi yükleyemedik. Lütfen tekrar deneyin.",
+  "tryAgain": "Tekrar Dene",
+  "noOrders": "Henüz Sipariş Yok",
+  "noOrdersDescription": "Henüz hiç sipariş vermediniz. Siparişlerinizi burada görmek için alışverişe başlayın.",
+  "startShopping": "Alışverişe Başla",
+  "orderCount": "{{count}} sipariş",
+  "orderNumber": "Sipariş",
+  "paid": "Ödendi",
+  "unpaid": "Ödenmedi",
+  "quantity": "Adet",
+  "total": "Toplam",
+  "continueShopping": "Alışverişe Devam Et"
+}

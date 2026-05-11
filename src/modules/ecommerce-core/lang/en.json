@@ -1,0 +1,23 @@
+{
+  "cart": "Cart",
+  "addToCart": "Add to Cart",
+  "removeFromCart": "Remove",
+  "clearCart": "Clear Cart",
+  "emptyCart": "Your cart is empty",
+  "cartTotal": "Total",
+  "checkout": "Checkout",
+  "quantity": "Quantity",
+  "favorites": "Favorites",
+  "addToFavorites": "Add to Favorites",
+  "removeFromFavorites": "Remove from Favorites",
+  "noFavorites": "No favorites yet",
+  "products": "Products",
+  "search": "Search",
+  "searchPlaceholder": "Search products...",
+  "noResults": "No products found",
+  "outOfStock": "Out of Stock",
+  "inStock": "In Stock",
+  "sale": "Sale",
+  "new": "New",
+  "featured": "Featured"
+}

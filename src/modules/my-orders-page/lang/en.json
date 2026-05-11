@@ -1,0 +1,23 @@
+{
+  "title": "My Orders",
+  "loadError": "Failed to load orders. Please try again.",
+  "loginRequired": "Login Required",
+  "loginRequiredDescription": "Please login to view your orders.",
+  "login": "Login",
+  "createAccount": "Create Account",
+  "loadingOrders": "Loading Orders",
+  "pleaseWait": "Please wait...",
+  "errorTitle": "Something went wrong",
+  "errorDescription": "We couldn't load your orders. Please try again.",
+  "tryAgain": "Try Again",
+  "noOrders": "No Orders Yet",
+  "noOrdersDescription": "You haven't placed any orders yet. Start shopping to see your orders here.",
+  "startShopping": "Start Shopping",
+  "orderCount": "{{count}} order(s)",
+  "orderNumber": "Order",
+  "paid": "Paid",
+  "unpaid": "Unpaid",
+  "quantity": "Qty",
+  "total": "Total",
+  "continueShopping": "Continue Shopping"
+}

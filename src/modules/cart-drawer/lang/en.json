@@ -1,0 +1,11 @@
+{
+  "title": "Shopping cart",
+  "empty": "Your cart is empty",
+  "qty": "Qty",
+  "remove": "Remove",
+  "subtotal": "Subtotal",
+  "shippingNote": "Shipping and taxes calculated at checkout.",
+  "checkout": "Checkout",
+  "or": "or",
+  "continueShopping": "Continue Shopping"
+}

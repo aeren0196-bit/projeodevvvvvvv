@@ -1,0 +1,23 @@
+{
+  "cart": "Sepet",
+  "addToCart": "Sepete Ekle",
+  "removeFromCart": "Kaldır",
+  "clearCart": "Sepeti Temizle",
+  "emptyCart": "Sepetiniz boş",
+  "cartTotal": "Toplam",
+  "checkout": "Ödeme",
+  "quantity": "Adet",
+  "favorites": "Favoriler",
+  "addToFavorites": "Favorilere Ekle",
+  "removeFromFavorites": "Favorilerden Kaldır",
+  "noFavorites": "Henüz favori yok",
+  "products": "Ürünler",
+  "search": "Ara",
+  "searchPlaceholder": "Ürün ara...",
+  "noResults": "Ürün bulunamadı",
+  "outOfStock": "Stokta Yok",
+  "inStock": "Stokta",
+  "sale": "İndirim",
+  "new": "Yeni",
+  "featured": "Öne Çıkan"
+}

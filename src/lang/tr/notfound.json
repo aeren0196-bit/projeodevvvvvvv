@@ -1,0 +1,7 @@
+{
+  "pageNotFound": "Sayfa Bulunamadı",
+  "pageNotFoundDev": "Bu sayfayı henüz oluşturmadın",
+  "description": "Üzgünüz, aradığınız sayfa bulunamadı. Taşınmış veya mevcut olmayabilir.",
+  "descriptionDev": "Bu sayfayı oluşturmak için Promake'i kullanabilirsin.",
+  "goHome": "Ana Sayfaya Git"
+}

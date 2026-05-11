@@ -1,0 +1,8 @@
+{
+  "flipHint": "Çevir",
+  "flipBack": "Ön Yüz",
+  "cardBack": "Kart Arka Yüzü",
+  "addToCart": "Sepete Ekle",
+  "lastStock": "Son {{count}}",
+  "outOfStock": "Tükendi"
+}

@@ -1,0 +1,23 @@
+{
+  "heroImageAlt": "Pokemon Kartları",
+  "heroBadge": "Türkiye'nin Pokemon Kart Mağazası",
+  "heroTitle1": "Koleksiyonunu",
+  "heroTitle2": "Büyüt!",
+  "heroDesc": "Nadir kartlar, booster box'lar ve Elite Trainer Box'lar. Güvenli alışveriş, hızlı kargo, orijinal ürün garantisi.",
+  "heroCta1": "Kartları Keşfet",
+  "heroCta2": "Kartını Sat",
+  "trust1": "Güvenli Ödeme",
+  "trust2": "Hızlı Kargo",
+  "trust3": "Orijinal Ürün Garantisi",
+  "trust4": "Kolay İade",
+  "cardsBadge": "Öne Çıkan Kartlar",
+  "cardsTitle": "Tekil Kartlar",
+  "cardsSubtitle": "Kartın ön ve arka yüzünü görmek için üzerine tıkla!",
+  "viewAllCards": "Tüm Kartları Gör",
+  "boxBadge": "Kapalı Kutular",
+  "boxTitle": "Booster Box & Elite Trainer Box",
+  "boxSubtitle": "Sürpriz açılış heyecanı! Mühürlü kutularla koleksiyonunu genişlet.",
+  "lastStock": "Son {{count}}",
+  "viewDetail": "İncele",
+  "viewAllBoxes": "Tüm Kutuları Gör"
+}

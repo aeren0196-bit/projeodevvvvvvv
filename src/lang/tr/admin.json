@@ -1,0 +1,106 @@
+{
+  "title": "Admin Paneli",
+  "subtitle": "CardDünyası Yönetim Paneli",
+  "tabs": {
+    "products": "Ürünler",
+    "sellRequests": "Kart Alım Talepleri"
+  },
+  "products": {
+    "title": "Ürün Yönetimi",
+    "addProduct": "Yeni Ürün Ekle",
+    "totalProducts": "Toplam {{count}} ürün",
+    "table": {
+      "id": "ID",
+      "name": "Ürün Adı",
+      "price": "Fiyat",
+      "originalPrice": "Orijinal Fiyat",
+      "stock": "Stok",
+      "condition": "Kondisyon",
+      "setName": "Set",
+      "category": "Kategori",
+      "featured": "Öne Çıkan",
+      "published": "Yayında",
+      "actions": "İşlemler"
+    },
+    "save": "Kaydet",
+    "saving": "Kaydediliyor...",
+    "delete": "Sil",
+    "deleteConfirm": "Bu ürünü silmek istediğinizden emin misiniz?",
+    "deleteConfirmTitle": "Ürünü Sil",
+    "deleteConfirmDesc": "\"{{name}}\" adlı ürün kalıcı olarak silinecek. Bu işlem geri alınamaz.",
+    "cancel": "İptal",
+    "yes": "Evet, Sil",
+    "noProducts": "Henüz ürün bulunmuyor.",
+    "loading": "Ürünler yükleniyor..."
+  },
+  "addForm": {
+    "title": "Yeni Ürün Ekle",
+    "name": "Ürün Adı",
+    "namePlaceholder": "Örn: Charizard VMAX",
+    "slug": "Slug (URL)",
+    "slugPlaceholder": "Örn: charizard-vmax",
+    "slugAuto": "Otomatik Oluştur",
+    "price": "Fiyat (₺)",
+    "pricePlaceholder": "0.00",
+    "originalPrice": "Orijinal Fiyat (₺)",
+    "originalPricePlaceholder": "0.00",
+    "description": "Açıklama",
+    "descriptionPlaceholder": "Ürün açıklaması...",
+    "category": "Kategori",
+    "categoryPlaceholder": "Kategori seçin",
+    "categories": {
+      "singleCard": "Tekil Kart",
+      "boosterBox": "Booster Box",
+      "eliteTrainerBox": "Elite Trainer Box"
+    },
+    "condition": "Kondisyon",
+    "conditionPlaceholder": "Kondisyon seçin",
+    "conditions": {
+      "mint": "Mint",
+      "nearMint": "Near Mint",
+      "excellent": "Excellent",
+      "good": "Good"
+    },
+    "setName": "Set Adı",
+    "setNamePlaceholder": "Örn: Scarlet & Violet",
+    "stock": "Stok Miktarı",
+    "stockPlaceholder": "0",
+    "isBox": "Kapalı Kutu",
+    "featured": "Öne Çıkan",
+    "published": "Yayında",
+    "submit": "Ürün Ekle",
+    "submitting": "Ekleniyor...",
+    "cancel": "İptal",
+    "required": "Bu alan zorunludur.",
+    "success": "Ürün başarıyla eklendi!",
+    "error": "Ürün eklenirken hata oluştu."
+  },
+  "sellRequests": {
+    "title": "Kart Alım Talepleri",
+    "totalRequests": "Toplam {{count}} talep",
+    "table": {
+      "id": "ID",
+      "cardName": "Kart Adı",
+      "setName": "Set",
+      "condition": "Kondisyon",
+      "quantity": "Adet",
+      "contactName": "İsim",
+      "contactEmail": "E-posta",
+      "contactPhone": "Telefon",
+      "message": "Mesaj",
+      "status": "Durum",
+      "createdAt": "Tarih"
+    },
+    "noRequests": "Henüz kart alım talebi bulunmuyor.",
+    "loading": "Talepler yükleniyor...",
+    "statusBadge": {
+      "pending": "Beklemede",
+      "reviewed": "İncelendi",
+      "completed": "Tamamlandı",
+      "rejected": "Reddedildi"
+    }
+  },
+  "currency": "₺",
+  "yes": "Evet",
+  "no": "Hayır"
+}

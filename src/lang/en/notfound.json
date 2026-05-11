@@ -1,0 +1,7 @@
+{
+  "pageNotFound": "Page Not Found",
+  "pageNotFoundDev": "You haven't created this page yet",
+  "description": "Sorry, we couldn't find the page you're looking for. It may have been moved or doesn't exist.",
+  "descriptionDev": "Use Promake to build this page.",
+  "goHome": "Go Home"
+}
