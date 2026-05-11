@@ -1,0 +1,9 @@
+{
+  "generatedAt": "2026-05-11T19:35:16.508Z",
+  "packages": {
+    "@promakeai/dbreact": "1.2.0",
+    "@promakeai/orm": "1.4.0",
+    "@promakeai/customer-backend-client": "1.2.0",
+    "@promakeai/inspector": "1.7.5"
+  }
+}

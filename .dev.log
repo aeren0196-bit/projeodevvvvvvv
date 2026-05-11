@@ -1,0 +1,11 @@
+
+> 1b9e9661-825e-4ea3-b566-9094dbb50ff4@0.4.1 dev
+> vite
+
+📦 Package versions written to versions.json
+7:35:16 PM [vite] (client) Forced re-optimization of dependencies
+
+  VITE v7.3.1  ready in 3175 ms
+
+  ➜  Local:   http://localhost:5174/
+  ➜  Network: http://10.150.95.69:5174/

@@ -1,0 +1,32 @@
+## Completed
+- Ana sayfa hero bölümü (lacivert/sarı Pokemon teması)
+- Kart flip efekti (3D dönen ön/arka yüz)
+- 5 tekil kart vitrini (Charizard, Pikachu, Mewtwo, Rayquaza, Umbreon)
+- Kapalı kutu bölümü (Booster Box & ETB)
+- Kartını Sat formu (e-posta ile bildirim)
+- Admin paneli (/admin) — stok/fiyat yönetimi, ürün ekleme/silme, kart alım talepleri
+- 8 örnek ürün veritabanı (5 kart + 3 kutu)
+- Tüm görseller oluşturuldu
+- Space Grotesk font + Pokemon sarısı/lacivert tema
+- Türkçe çeviriler tamamlandı
+- Ürün filtreleme (Tekil Kart / Booster Box butonları)
+- Admin paneline şifre koruması (1234)
+- Admin panelinde geri dönme butonu
+- Mağaza adresi güncellendi (Kadıköy Caferağa Mah. 8/3)
+- İletişim sayfasına Google Maps haritası eklendi
+- Ana sayfada daha fazla ürün gösterimi (8 kart + 6 kutu)
+- Admin paneli React hook hatası düzeltildi
+- Kartını Sat form kutucuğu görünür hale getirildi (sarı kenarlık + parlak arka plan)
+- Tüm ürünlere özel görseller eklendi (45+ kart)
+- 360° flip kart görüntüleme (ön/arka çevirme)
+- Booster Box filtresi düzeltildi
+- Sayfalama eklendi (20 ürün/sayfa)
+- 63 ürünün tamamına özel görseller eklendi (Entei, Suicune, Raikou, Vaporeon, Flareon, Jolteon, Togekiss, Garchomp, Salamence, Tyranitar, Absol, Dialga, Palkia, Zekrom, Reshiram, Xerneas, Yveltal, Zygarde, Solgaleo, Lunala, Necrozma ve tüm Booster Box/ETB ürünleri için benzersiz görseller)
+- Tüm 50 tekil kart görseli yeniden oluşturuldu (düz kart formatı)
+- Hakkımızda sayfası koleksiyoner odaklı içerikle güncellendi
+- Müşteri yorumları bölümü eklendi (TestimonialsGrid)
+- Ürün yorumları ve yıldız sistemi eklendi (ProductReviewsSection)
+- Ürün detay sayfasına geri dönme butonu eklendi
+- Her sayfaya sabit 'Geri Dön' butonu eklendi (Layout.tsx)
+
+## Dismissed

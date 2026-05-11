@@ -1,0 +1,84 @@
+
+> 1b9e9661-825e-4ea3-b566-9094dbb50ff4@0.4.1 dev
+> vite
+
+📦 Package versions written to versions.json
+3:31:33 PM [vite] (client) Forced re-optimization of dependencies
+
+  VITE v7.3.1  ready in 2174 ms
+
+  ➜  Local:   http://localhost:5174/
+  ➜  Network: http://10.150.18.137:5174/
+
+> 1b9e9661-825e-4ea3-b566-9094dbb50ff4@0.4.1 dev
+> vite
+
+📦 Package versions written to versions.json
+3:51:28 PM [vite] (client) Forced re-optimization of dependencies
+
+  VITE v7.3.1  ready in 1703 ms
+
+  ➜  Local:   http://localhost:5174/
+  ➜  Network: http://10.150.18.137:5174/
+
+🌐 Translation file changed!
+🔄 Restarting server to load translations...
+
+📦 Package versions written to versions.json
+
+📊 Component Debugger Statistics:
+   Total files scanned: 77
+   Files processed: 77
+   Elements tagged: 3241
+4:48:15 PM [vite] (client) Forced re-optimization of dependencies
+4:48:15 PM [vite] server restarted.
+
+🌐 Translation file changed!
+🔄 Restarting server to load translations...
+
+📦 Package versions written to versions.json
+
+📊 Component Debugger Statistics:
+   Total files scanned: 58
+   Files processed: 58
+   Elements tagged: 1814
+4:48:29 PM [vite] (client) Forced re-optimization of dependencies
+4:48:29 PM [vite] server restarted.
+
+🌐 Translation file changed!
+🔄 Restarting server to load translations...
+
+📦 Package versions written to versions.json
+
+📊 Component Debugger Statistics:
+   Total files scanned: 58
+   Files processed: 58
+   Elements tagged: 1814
+4:48:42 PM [vite] (client) Forced re-optimization of dependencies
+4:48:42 PM [vite] server restarted.
+4:54:04 PM [vite] (client) ✨ new dependencies optimized: @radix-ui/react-avatar
+4:54:04 PM [vite] (client) ✨ optimized dependencies changed. reloading
+
+🌐 Translation file changed!
+🔄 Restarting server to load translations...
+
+📦 Package versions written to versions.json
+
+📊 Component Debugger Statistics:
+   Total files scanned: 124
+   Files processed: 124
+   Elements tagged: 3822
+5:03:12 PM [vite] (client) Forced re-optimization of dependencies
+5:03:12 PM [vite] server restarted.
+
+🌐 Translation file changed!
+🔄 Restarting server to load translations...
+
+📦 Package versions written to versions.json
+
+📊 Component Debugger Statistics:
+   Total files scanned: 61
+   Files processed: 61
+   Elements tagged: 1901
+5:03:20 PM [vite] (client) Forced re-optimization of dependencies
+5:03:20 PM [vite] server restarted.
